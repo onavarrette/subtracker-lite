@@ -1,4 +1,5 @@
 # 🚀 SubTracker Lite
+[![Java CI with Maven and Docker](https://github.com/onavarrette/subtracker-lite/actions/workflows/maven.yml/badge.svg)](https://github.com/onavarrette/subtracker-lite/actions/workflows/maven.yml)
 
 SubTracker Lite es una API REST moderna desarrollada con **Java 25** y **Spring Boot 4.0.3**. El proyecto nace como un laboratorio personal para experimentar con las funcionalidades más recientes del framework, la gestión de contenedores nativa y la observabilidad.
 
